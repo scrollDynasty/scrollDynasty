@@ -1,313 +1,145 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ██╗   ██╗███╗   ███╗ █████╗ ██████╗                                  ║
-║   ██║   ██║████╗ ████║██╔══██╗██╔══██╗                                 ║
-║   ██║   ██║██╔████╔██║███████║██████╔╝                                 ║
-║   ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗                                 ║
-║   ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║                                 ║
-║    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                 ║
-║                                                                          ║
-║              Full-Stack Engineer | Solution Architect                   ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+# 👋 Hey, I'm Umar
 
-<p align="center">
-  <a href="https://t.me/scroll_be"><img src="https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram" alt="Telegram"></a>
-  <a href="https://github.com/scrollDynasty"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://www.instagram.com/scroll_privacy/"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram" alt="Instagram"></a>
-  <a href="mailto:ymarumar502@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" alt="Email"></a>
-</p>
+### Full-Stack Developer | Mobile & Web
 
-<p align="center">
-  <i>Building scalable, production-ready solutions</i>
-</p>
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scroll_be)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scrollDynasty)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scroll_privacy/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymarumar502@gmail.com)
 
 </div>
 
 ---
 
-## Overview
+## 🚀 About Me
 
-Middle Full-Stack Developer специализирующийся на enterprise-grade мобильных и веб-приложениях. Фокус на высоконагруженные системы, микросервисную архитектуру и CI/CD автоматизацию.
+Создаю кросс-платформенные мобильные приложения и масштабируемые backend системы. Специализируюсь на React Native, FastAPI и Django. Люблю автоматизировать процессы через Docker и CI/CD.
 
-**Core Expertise:** Cross-platform mobile development, async backend systems, containerized infrastructure
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  ARCHITECTURE        │  DELIVERY         │  SCALE              │
-├─────────────────────────────────────────────────────────────────┤
-│  Microservices       │  Docker/K8s       │  High Load APIs     │
-│  REST/GraphQL        │  CI/CD Pipelines  │  Caching Layers     │
-│  Event-Driven        │  GitOps           │  Database Tuning    │
-└─────────────────────────────────────────────────────────────────┘
-```
+**Сейчас работаю с:** биллинговыми системами, e-commerce приложениями и real-time чатами.
 
 ---
 
-## Technical Stack
+## 💼 Tech Stack
 
-### Mobile Engineering
-```
-React Native • Expo • TypeScript • React Navigation
-State Management: Redux Toolkit • Zustand • React Query
-Performance: React.memo • useMemo • Code Splitting
-Native Integration: Custom Modules • Expo Modules API
-```
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend Infrastructure
-```
-FastAPI • Django • Express.js • Node.js
-Async/Await • WebSocket • REST API Design
-Authentication: JWT • OAuth2 • Session Management
-Databases: MariaDB • PostgreSQL • Redis
-Message Queues: Celery • RabbitMQ • Redis Pub/Sub
-```
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### DevOps & Infrastructure
-```
-Docker • Docker Compose • Kubernetes
-CI/CD: GitHub Actions • GitLab CI • Jenkins
-Cloud: AWS • DigitalOcean • VPS Management
-Monitoring: Prometheus • Grafana • Sentry
-Nginx • Gunicorn • PM2
-```
+### Frontend Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Frontend Development
-```
-React • TypeScript • Next.js • Vite
-Styling: Tailwind CSS • CSS-in-JS • SCSS
-Build Tools: Webpack • Rollup • ESBuild
-Testing: Jest • React Testing Library • Cypress
-```
+### Database & Tools
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Technical Competencies
+## 📊 GitHub Stats
 
-### System Design & Architecture
-- Microservices architecture with service mesh patterns
-- Event-driven systems using message brokers
-- Database schema design and optimization
-- Caching strategies (Redis, in-memory, CDN)
-- API gateway patterns and rate limiting
-- Horizontal and vertical scaling strategies
+<div align="center">
 
-### DevOps & Automation
-- Containerization with Docker multi-stage builds
-- Kubernetes orchestration and deployment
-- CI/CD pipeline design and implementation
-- Infrastructure as Code (IaC)
-- Automated testing and deployment workflows
-- Blue-green and canary deployments
-- Log aggregation and monitoring setup
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scrollDynasty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-### Performance & Optimization
-- Database query optimization and indexing
-- API response time optimization (<100ms)
-- Mobile app performance profiling
-- Bundle size optimization
-- Server-side rendering and static generation
-- Memory leak detection and prevention
-- Load balancing and traffic distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scrollDynasty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-### Security & Best Practices
-- Secure authentication flows (JWT, OAuth2)
-- API security (CORS, rate limiting, input validation)
-- Data encryption at rest and in transit
-- OWASP Top 10 vulnerability prevention
-- Secure CI/CD practices
-- Dependency vulnerability scanning
-- Security headers and CSP implementation
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scrollDynasty&theme=radical&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
-## Production Experience
+## 🔥 Featured Projects
 
-### High-Load Systems
-- Built REST APIs handling 10K+ requests per minute
-- Implemented caching reducing response time by 80%
-- Optimized database queries from 2s to 50ms
-- Designed async job processing for heavy operations
+### 📱 MyCloud - Billing Platform
+**Stack:** React Native • FastAPI • MariaDB • Docker • Redis
 
-### Mobile Applications
-- Published 5+ apps to App Store and Google Play
-- Implemented offline-first architecture with sync
-- Reduced bundle size by 40% through code splitting
-- Achieved 60 FPS performance on mid-range devices
+Кросс-платформенное мобильное приложение для управления биллингом с веб-админкой. Обрабатывает 500+ транзакций в день.
 
-### Infrastructure & DevOps
-- Configured Docker environments for dev/staging/prod
-- Set up CI/CD pipelines with automated testing
-- Implemented zero-downtime deployments
-- Configured monitoring and alerting systems
+- ⚡ Real-time обновления через WebSocket
+- 🔄 CI/CD с GitLab
+- 🐳 Docker контейнеризация
+- 📈 99% uptime
 
----
+### 🛒 E-Commerce Mobile App
+**Stack:** React Native • Django REST • PostgreSQL • Docker
 
-## Featured Projects
+Полнофункциональный маркетплейс с интеграцией платежных систем.
 
-### Enterprise Billing Platform
-**Tech:** React Native • FastAPI • MariaDB • Docker • Redis  
-**Scale:** 5K+ active users, 500+ transactions/day
+- 💳 Stripe/PayPal интеграция
+- 🔔 Push notifications
+- 📦 Офлайн режим с синхронизацией
+- 🎨 Оптимизация размера: 45MB → 28MB
 
-- Cross-platform mobile app with web admin panel
-- Real-time updates via WebSocket connections
-- Automated invoice generation and payment processing
-- Microservices architecture with message queues
-- Docker containerization with CI/CD deployment
-- 99.9% uptime with automated failover
+### 💬 Real-Time Chat
+**Stack:** React Native • FastAPI • WebSocket • Redis
 
-**Key Achievements:**
-- Reduced API response time by 70% through caching
-- Implemented automated testing (95% coverage)
-- Zero-downtime deployments via GitLab CI/CD
-- Integrated monitoring with Grafana dashboards
+Instant messaging с файлообменом и видеозвонками.
 
-### E-Commerce Mobile Platform
-**Tech:** React Native • Django REST • PostgreSQL • Docker
-
-- Full-featured marketplace with 10K+ products
-- Payment gateway integration (Stripe, PayPal)
-- Push notifications and real-time order tracking
-- Offline mode with background synchronization
-- Admin dashboard with analytics
-
-**Key Achievements:**
-- Optimized app size from 45MB to 28MB
-- Implemented image lazy loading and caching
-- Set up automated builds and deployments
-- Configured horizontal scaling with load balancer
-
-### Real-Time Communication System
-**Tech:** React Native • FastAPI • WebSocket • Redis • Docker
-
-- Instant messaging with file sharing
-- Group chats with end-to-end encryption
-- Video/audio call integration
-- Message queue for offline delivery
-- Containerized microservices architecture
-
-**Key Achievements:**
-- Handled 1K+ concurrent WebSocket connections
-- Implemented message delivery guarantees
-- Set up Redis cluster for session management
-- Automated deployment with GitHub Actions
+- 🔐 End-to-end шифрование
+- ⚡ 1K+ одновременных соединений
+- 📨 Message queue для офлайн доставки
+- 🚀 Автодеплой через GitHub Actions
 
 ---
 
-## Development Workflow
+## 🛠️ Development Workflow
 
 ```
-┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
-│   Planning   │──▶│  Development │──▶│   Testing    │──▶│  Deployment  │
-└──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
-      │                   │                   │                   │
-      ▼                   ▼                   ▼                   ▼
-  Architecture       TypeScript         Unit Tests         Docker Build
-  Documentation      Linting/ESLint     Integration        CI/CD Pipeline
-  API Design         Code Review        E2E Tests          Monitoring
+Plan → Code → Test → Deploy
+  ↓      ↓      ↓       ↓
+ API   TypeScript Unit   Docker
+Design  + ESLint  Tests  + CI/CD
 ```
 
-### Code Quality Standards
-- TypeScript for type safety across stack
-- ESLint + Prettier for consistent formatting
-- Pre-commit hooks with Husky
-- Automated testing (unit, integration, E2E)
-- Code review process with PR templates
-- Documentation with JSDoc and OpenAPI
-
-### Git Workflow
-- Git Flow branching strategy
-- Conventional commits specification
-- Semantic versioning
-- Protected main branch with required reviews
-- Automated changelog generation
+**Использую:**
+- Git Flow для версионирования
+- Docker Compose для локальной разработки
+- GitHub Actions / GitLab CI для автоматизации
+- Prometheus + Grafana для мониторинга
 
 ---
 
-## Technical Metrics
+## 📈 What I Focus On
 
-```
-Performance Benchmarks:
-├── API Response Time ────────────── < 100ms (p95)
-├── Mobile App Launch ────────────── < 2s (cold start)
-├── Database Queries ─────────────── < 50ms (optimized)
-├── Docker Build Time ────────────── < 3min (cached)
-├── CI/CD Pipeline ───────────────── < 5min (full cycle)
-└── Test Coverage ────────────────── > 85% (critical paths)
-
-System Reliability:
-├── Uptime ───────────────────────── 99.9%
-├── Error Rate ───────────────────── < 0.1%
-├── MTTR (Mean Time To Recovery) ─── < 15min
-└── Deployment Frequency ─────────── 2-3x per week
-```
-
----
-
-## Current Focus (2026)
-
-```typescript
-const roadmap = {
-  architecture: [
-    'Advanced microservices patterns',
-    'Event-driven architecture deep dive',
-    'Service mesh implementation (Istio)'
-  ],
-  
-  infrastructure: [
-    'Kubernetes production deployment',
-    'GitOps with ArgoCD',
-    'Infrastructure as Code (Terraform)'
-  ],
-  
-  performance: [
-    'React Native performance optimization',
-    'Database scaling strategies',
-    'CDN and edge computing'
-  ],
-  
-  security: [
-    'Zero-trust architecture',
-    'Advanced API security patterns',
-    'Penetration testing methodologies'
-  ]
+```javascript
+const currentGoals = {
+  mobile: "React Native performance optimization",
+  backend: "Microservices patterns with FastAPI",
+  devops: "Kubernetes deployment automation",
+  learning: "Advanced system design & architecture"
 }
 ```
 
 ---
 
-## Open to Collaboration
+## 📫 Let's Connect
 
-### Available For:
-- **Enterprise Applications** — Scalable mobile and web solutions
-- **System Architecture** — Design and consulting for complex systems
-- **Performance Optimization** — API and application tuning
-- **DevOps Implementation** — CI/CD setup and containerization
-- **Technical Leadership** — Code review and team mentoring
+💼 **Open to:** Full-stack projects, mobile app development, backend API consulting
 
-### Working Hours
-- **Timezone:** UTC+5 (Tashkent)
-- **Availability:** Flexible for international collaboration
-- **Response Time:** Within 24 hours on business days
+📧 **Email:** [ymarumar502@gmail.com](mailto:ymarumar502@gmail.com)  
+💬 **Telegram:** [@scroll_be](https://t.me/scroll_be)  
+🌍 **Location:** Tashkent, Uzbekistan (UTC+5)
 
 ---
 
 <div align="center">
 
-### Let's Build Something Great
+![Profile Views](https://komarev.com/ghpvc/?username=scrollDynasty&color=blueviolet&style=flat-square)
 
-**Contact:** [ymarumar502@gmail.com](mailto:ymarumar502@gmail.com) | [Telegram](https://t.me/scroll_be)
-
-```
-────────────────────────────────────────────────────────────────
-  "Code is like humor. When you have to explain it, it's bad."
-────────────────────────────────────────────────────────────────
-```
-
-<sub>Last updated: January 2025</sub>
+**"Write clean code, ship fast, iterate faster"**
 
 </div>
