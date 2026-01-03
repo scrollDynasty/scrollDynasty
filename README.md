@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Umar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&section=header&text=Umar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <div align="center">
@@ -86,13 +86,14 @@
 </td>
 
 <td width="50%">
-<h3 align="center">E-Commerce Mobile App</h3>
+<h3 align="center">Yeb-Ich - AI Calorie Tracker</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 <br/><br/>
-<p>Full marketplace with payment integration. Push notifications, offline mode. Optimized from 45MB to 28MB bundle size.</p>
+<p>AI-powered calorie tracking mobile app. Intelligent food recognition, real-time nutrition analysis. Optimized performance with Redis caching and Docker deployment.</p>
 </div>
 </td>
 </tr>
@@ -146,5 +147,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" />
 </div>
