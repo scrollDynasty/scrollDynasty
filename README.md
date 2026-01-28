@@ -130,7 +130,6 @@
     open_to: ["Full-Stack Projects", "Mobile Development", "Backend API Consulting"]
   }
   ```
-  
 </div>
 
 <br/>
