@@ -61,69 +61,6 @@
 
 <br/>
 
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">MyCloud - Billing Platform</h3>
-<div align="center">  
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<br/><br/>
-<p>Cross-platform billing app with real-time updates. WebSocket integration, CI/CD with GitLab. Handles 500+ daily transactions with 99% uptime.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Yeb-Ich - AI Calorie Tracker</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-<br/><br/>
-<p>AI-powered calorie tracking mobile app. Intelligent food recognition, real-time nutrition analysis. Optimized performance with Redis caching and Docker deployment.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Real-Time Chat System</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white"/>
-<br/><br/>
-<p>Instant messaging with file sharing. End-to-end encryption. Handles 1K+ concurrent connections with GitHub Actions deployment.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Development Focus</h3>
-<div align="center">
-<br/>
-<p>
-🔹 Microservices Architecture<br/>
-🔹 React Native Performance<br/>
-🔹 Kubernetes Deployment<br/>
-🔹 System Design Patterns
-</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ## 📫 Let's Connect
 
 <div align="center">
