@@ -61,6 +61,20 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scrollDynasty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrollDynasty&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=scrollDynasty&theme=tokyonight&hide_border=true" />
+</div>
+
+
+<br/>
+
 ## 📫 Let's Connect
 
 <div align="center">
